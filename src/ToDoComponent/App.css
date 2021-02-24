@@ -1,0 +1,50 @@
+
+.heading{
+  color: #204667
+}
+.add-btn {
+    color: white;
+    background: #284156;
+    height: 30px;
+    margin-left: 10px;
+    border: 1px solid #b5b0b0;
+    border-radius: 2px;
+    width: 64px;
+}
+.add-btn:hover {
+  color: white;
+  box-shadow: #29323c;
+}
+.addItem:active {
+  transform: scale(0.98);
+}
+* {
+  box-sizing: border-box;
+}
+
+.list-div {
+  border: 1px solid #f5f5f5;
+  margin-bottom: 6px;
+  min-height: 33px;
+  padding: 3px 10px 10px 10px;
+  max-width: 382px;
+  background-image: linear-gradient(to right, #f9f3dd 0%, #cecccc 100%);
+  font-size: 18px;
+}
+.trigger:active {
+  transform: scale(0.98);
+}
+.ml-10{
+  margin-left: 60px;
+}
+.input-bx{
+  height: 38px;
+  width: 305px;
+}
+.mt-45{
+  margin-top: 45px;
+}
+.error{
+  color: red;
+  margin-top: 6px;
+}
